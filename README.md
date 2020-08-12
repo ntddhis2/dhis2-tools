@@ -7,3 +7,6 @@ Notebook documents are documents produced by the Jupyter Notebook App, which con
 
 ## Running Jupyter Notebooks
 To run a Jupyter Notebook, Python must be installed locally. If Python is not already installed for you, we recommend installing [Anaconda](https://www.anaconda.com/products/individual), a popular distribution. Once Python is installed, Jupyter Lab, the Python application to run Jupyter Notebooks can then be installed. Instructions for doing so can be found [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
+
+
+![Running a Jupyter Notebook](jupyter.png)
